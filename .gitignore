@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# CatBoost
+catboost_info/
+
+# Project specific
+data/*
+!data/.gitkeep

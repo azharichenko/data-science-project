@@ -12,6 +12,7 @@ catboost = "*"
 xgboost = "*"
 scikit-learn = "*"
 jupyterlab = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.7"

@@ -3,6 +3,9 @@
 Just messing around with statistical machine learning on the ISLR's credit card balance dataset
 credit-balance-exploration
 
+- [AIcrowd Blitz #2](https://github.com/azharichenko/ai-crowd-blitz)
+- []
+
 ### Requirements
 - Python >= 3.6
 - Node.js
